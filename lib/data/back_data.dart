@@ -43,7 +43,7 @@ List<Recipe> RECIPES = const [
       ],
       duration: 45,
       imageUrl:
-          'https://www.kawalingpinoy.com/wp-content/uploads/2019/12/chicken-asado-3-730x973.jpg'),
+          'https://panlasangpinoy.com/wp-content/uploads/2014/12/Chicken-Asado.jpg'),
   Recipe(
     id: 2,
     categoryId: 2,
